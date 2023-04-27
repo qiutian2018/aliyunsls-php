@@ -1,0 +1,25 @@
+{
+    "name": "qiutian2018/aliyunsls-php",
+    "description": "aliyun sls query for php",
+    "type": "library",
+    "require": {
+        "alibabacloud/aliyun-log-php-sdk": "0.6.*"
+    },
+    "require-dev": {
+        "alibabacloud/aliyun-log-php-sdk": "0.6.*"
+    },
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Qiutian2018\\AliyunslsPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "qiutian",
+            "email": "339553738@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "version": "1.0.0"
+}
