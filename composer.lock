@@ -4,58 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1a50d32553d3e1c54162fd28f8aa10ff",
-    "packages": [
-        {
-            "name": "alibabacloud/aliyun-log-php-sdk",
-            "version": "0.6.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/alibabacloud-sdk-php/aliyun-log-php-sdk.git",
-                "reference": "ed0bedc246666688c4360cb2fa78216905476f70"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/alibabacloud-sdk-php/aliyun-log-php-sdk/zipball/ed0bedc246666688c4360cb2fa78216905476f70",
-                "reference": "ed0bedc246666688c4360cb2fa78216905476f70",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=7.1.7"
-            },
-            "type": "library",
-            "autoload": {
-                "files": [
-                    "Log_Autoload.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "authors": [
-                {
-                    "name": "Qi Zhou"
-                },
-                {
-                    "name": "TingTao Sun"
-                },
-                {
-                    "name": "Leiyun Ma"
-                },
-                {
-                    "name": "Xin Zhang"
-                }
-            ],
-            "description": "The Php SDK of Alibaba log service",
-            "keywords": [
-                "SLS",
-                "alibaba",
-                "sdk"
-            ],
-            "support": {
-                "source": "https://github.com/alibabacloud-sdk-php/aliyun-log-php-sdk/tree/0.6.3"
-            },
-            "time": "2021-09-28T12:59:17+00:00"
-        }
-    ],
+    "content-hash": "48cd420e4142be4de047d93358c5e502",
+    "packages": [],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
