@@ -2,12 +2,6 @@
     "name": "qiutian2018/aliyunsls-php",
     "description": "aliyun sls query for php",
     "type": "library",
-    "require": {
-        "alibabacloud/aliyun-log-php-sdk": "0.6.*"
-    },
-    "require-dev": {
-        "alibabacloud/aliyun-log-php-sdk": "0.6.*"
-    },
     "license": "GPL-3.0",
     "autoload": {
         "psr-4": {
