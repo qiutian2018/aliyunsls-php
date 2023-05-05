@@ -2,7 +2,7 @@
     "name": "qiutian2018/aliyunsls-php",
     "description": "aliyun sls query for php",
     "type": "library",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "Qiutian2018\\AliyunslsPhp\\": "src/"
